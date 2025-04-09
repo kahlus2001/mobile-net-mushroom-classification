@@ -1,2 +1,2 @@
 # mobile-net-mushroom-classification
-Fine Tuning of MobileNetV3Large to classify edibility of mushrooms from images
+Fine Tuning of MobileNetV2 to classify edibility of mushrooms from images
