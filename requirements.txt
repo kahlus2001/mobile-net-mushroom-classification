@@ -3,3 +3,5 @@ kagglehub
 pandas
 tensorflow
 matplotlib
+scikit-learn
+numpy
