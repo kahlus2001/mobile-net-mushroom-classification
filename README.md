@@ -50,5 +50,5 @@ python -m ipykernel install --user --name=tfmacos-310 --display-name "Python (tf
 ```bash
 pip install -r requirements.txt
 ```
-
-7. run the notebook
+7. restart your IDE
+8. run the `.ipynb` notebook
