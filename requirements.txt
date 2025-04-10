@@ -2,6 +2,8 @@ ipykernel
 kagglehub
 pandas
 tensorflow
+tensorflow-macos
+tensorflow-metal
 matplotlib
 scikit-learn
 numpy
